@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: test_driver/journeys-v2/app_test.dart
+  checksum: 142abed966c3cd90d7a986bce2cfbf5212d0a1b94e53f0a2d3b6a978558f48dc
+- filename: test_driver/journeys/journeys.dart
+  checksum: 619f73faeda18d5ec23c56f674108d56692f5e44fc2dd97a873d4977698c0bf2
+- filename: test_driver/pages/registry_page.dart
+  checksum: b2d318e3fb17ac750c3ad2c7c453fcd7097f85d5d3005b9e59236500b49ce78d
+version: "1.0"
